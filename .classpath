@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="JavaExamples/src/main/java"/>
 	<classpathentry kind="src" path="JavaExamples/src/test/java"/>
 	<classpathentry kind="src" path="SeleniumJavaCourse/src"/>
+	
+	
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="JavaExamples/target/classes"/>
 </classpath>
